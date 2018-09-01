@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='GameMemoryUITests.xctest' tests='3' failures='0'>
+  <testsuite name='GameMemoryTests.GameMemoryTests' tests='2' failures='0'>
+    <testcase classname='GameMemoryTests.GameMemoryTests' name='testExample' time='0.001'/>
+    <testcase classname='GameMemoryTests.GameMemoryTests' name='testPerformanceExample' time='0.425'/>
+  </testsuite>
+  <testsuite name='GameMemoryUITests.GameMemoryUITests' tests='1' failures='0'>
+    <testcase classname='GameMemoryUITests.GameMemoryUITests' name='testExample' time='4.246'/>
+  </testsuite>
+</testsuites>
