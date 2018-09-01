@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     var game: MemoryGame!
-    //var emoticonDict = [Int:String]()
+    var emoticonDict = [Int:String]()
     var emoticons = ["👻", "🎃", "💀", "😈", "😱", "🦇", "🕷", "🤡", "🕸", "🦉"]
     
     @IBOutlet var cardButtons: [UIButton]!
